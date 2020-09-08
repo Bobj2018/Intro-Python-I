@@ -1,4 +1,5 @@
-# For the exercise, look up the methods and functions that are available for use
+# For the exercise, look up the methods and functions
+# that are available for use
 # with Python lists.
 
 x = [1, 2, 3]
@@ -32,4 +33,4 @@ print(len(x))
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
-print([y * 1000 for y in x ])
+print([y * 1000 for y in x])
